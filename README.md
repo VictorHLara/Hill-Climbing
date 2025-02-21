@@ -26,7 +26,9 @@ The hill climbing algorithm is used to find the local maximum or minimum in a li
     ```
 2. Run the script:
     ```bash
-    python main.py
+    python3 hill_climbing_max.py
     ```
 
-##Visualization:
+## Visualization:
+
+![Image](https://github.com/user-attachments/assets/3f6d839e-f2f1-4aba-a678-fe867e697564)
